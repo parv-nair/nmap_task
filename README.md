@@ -7,6 +7,7 @@ Performed a TCP SYN scan on the local network using Nmap to identify live hosts 
 - Nmap v7.97
 - Windows Command Prompt
 
+
 ## Target Range
 Scanned: 192.168.24.0/24
 
